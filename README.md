@@ -1,6 +1,6 @@
 # JSP_study
 
-#### 1일차
+#### [1일차](https://github.com/Hsegunn/JSP_study/blob/main/myPrj01/src/main/webapp/learn02/formTest.html)
 ##### 서브릿
 - 서브릿을 매핑 이용하여 데이터 전송
 
